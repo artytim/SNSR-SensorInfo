@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\timsh\.android\build-cache\b6c29b6d1eda320d3357ae6bbb479570c159c495\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\timsh\Desktop\And\prj\SNSR\ASPE\SensorPlay\app\build\intermediates\pre-dexed\debug\classes_c4a5d90d4120631541ba94fc35ecf40461070c57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timsh\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\timsh\Desktop\And\prj\SNSR\ASPE\SensorPlay\app\build\intermediates\pre-dexed\debug\common-1.0.0_0ee1607e80240d72bf31d133645725f4ba05aee1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timsh\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\timsh\Desktop\And\prj\SNSR\ASPE\SensorPlay\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_c9e1dea5e0c27533f4aa36a8e5886c686ce6708c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timsh\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\timsh\Desktop\And\prj\SNSR\ASPE\SensorPlay\app\build\intermediates\pre-dexed\debug\common-1.0.0_9c8c654cf086af95bd44eff10e1c7cd7cd798cf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timsh\.android\build-cache\8f4dff88049bdc4c765313fef2897986f9d5f7cf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\timsh\Desktop\And\prj\SNSR\ASPE\SensorPlay\app\build\intermediates\pre-dexed\debug\classes_ec1e6511dd7fd7ff38a3270fea1b9ca5006a6ac7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timsh\.android\build-cache\3c261d22238d85e5430ecf6cda05db139c4dc137\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\timsh\Desktop\And\prj\SNSR\ASPE\SensorPlay\app\build\intermediates\pre-dexed\debug\classes_73b1b775552e72b0fa6d10ba8d7bd0616fc4bf00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timsh\.android\build-cache\4f949babb8edb00592f70d6a18f00eb5ab3c4b3f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\timsh\Desktop\And\prj\SNSR\ASPE\SensorPlay\app\build\intermediates\pre-dexed\debug\classes_b052d001dfb9b94b59210b4fef8ff5d93c595ca1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timsh\.android\build-cache\fa3d9a98f854d2f6947686b7cf46b5fa13abb794\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\timsh\Desktop\And\prj\SNSR\ASPE\SensorPlay\app\build\intermediates\pre-dexed\debug\classes_240098b5946924920bb3e0defbe8a1b5cd372b21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timsh\.android\build-cache\657e7e348a221d7922dfce9220a8ddca626faa50\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\timsh\Desktop\And\prj\SNSR\ASPE\SensorPlay\app\build\intermediates\pre-dexed\debug\classes_bc8a993729ec9d818c9ab63602b80250300f24eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timsh\.android\build-cache\c79ba339c105d35782d0e762db4168b53151ac62\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\timsh\Desktop\And\prj\SNSR\ASPE\SensorPlay\app\build\intermediates\pre-dexed\debug\classes_6cb1a8247ea5165bda8415c4d72f816aabf4d7a0.jar" />
+    </item>
+
+</items>
